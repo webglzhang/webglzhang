@@ -8,11 +8,9 @@ About me:
 - 📫 Welcome to communicate. This is my QQ group number 740855975.
 
 <br>
-This is my personal introduction ！！！
-<br>
-<br>
 I‘m a web3d programer. I really like three.js, which is very freedom .This is my demo contribute to three.js. And Thank Mr. Doob and mugen87 for their help, helping me complete the feature demo and opening the door to open source. 
 <br>
+
 <br>
 https://threejs.org/examples/?q=Ins#webgl_instancing_raycast 
 
