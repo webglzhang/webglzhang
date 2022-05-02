@@ -2,9 +2,15 @@
 
 <!-- 个人资料徽标 -->
 <div align="left">
-  <a href="https://github.com/webglzhang/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=webglzhang"/>&emsp;
-  <img src="https://img.shields.io/github/followers/webglzhang?color=oxff"/>&emsp;
+  <span >
+    <img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img  src="https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript" />
+     <img  src="https://img.shields.io/badge/-React-9cf?logo=React&&logoColor=red&style=flat" />
+    <img  src="https://img.shields.io/badge/-Three.js-yellow?logo=three.js&&logoColor=dark&style=flat" />
+    <img  src="https://img.shields.io/badge/-WebGL-brightgreen?logo=webgl&&logoColor=red&style=flat" />
+    <img  src="https://img.shields.io/badge/-WebGPU-yellowgreen?logo=vulkan&&logoColor=dark&style=flat" />
+  </span>
+  
   <div align="left" style="float:left" >
   <a href="https://juejin.cn/user/2840793779557277" >
     <img src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg"/ style="width:150px; height:75px">
@@ -16,14 +22,14 @@
 </div>
 </div>
 
-
-
-    
-
- 
 <p align="center">
 <!--   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />   -->
-  <h2 align="left">🏆 GitHub Profile Trophy</h2>
+<h2 align="left">🏆 GitHub Profile Trophy</h2>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=webglzhang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=webglzhang"/>
+  <img src="https://img.shields.io/github/followers/webglzhang?color=oxff"/>
+</div>
