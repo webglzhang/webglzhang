@@ -27,7 +27,7 @@
 <h2 align="left">🏆 GitHub Profile Trophy</h2>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=webglzhang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=webglzhang&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=webglzhang"/>
